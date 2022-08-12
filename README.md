@@ -2,7 +2,7 @@
 - 👀 I’m interested in Infosec, Vulnerability Research and Exploit Development.
 
 This is my personal storage for writeups, exploits, N-days and research.
-All contents are for educational purposes only.
+All content is for educational purposes only.
 
 <!---
 JustCleaningHere/JustCleaningHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
